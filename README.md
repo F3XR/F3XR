@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 - 📫 How to reach me: Discord
-- 🔭 I’m currently working on [Invasion-17.50](<https://github.com/F3XR/Invasion-17.50>)
 <!--
 **F3XR/F3XR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
