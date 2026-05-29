@@ -1,6 +1,19 @@
 ## Hi there 👋
 
+---
+![Github Stats](https://github-stats-alpha.vercel.app/api?username=F3XR&cc=000&tc=fff&ic=fff&bc=000)
+---
+<div align="left">
+  <a href="https://discord.com/users/732275651385753753">
+    <img src="https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&hideStatus=true" alt="Discord Presence" />
+  </a>
+</div>
+
+---
 - 📫 How to reach me: Discord
+
+
+
 <!--
 **F3XR/F3XR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
