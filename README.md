@@ -5,7 +5,7 @@
 ---
 <div align="left">
   <a href="https://discord.com/users/732275651385753753">
-    <img src="https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&hideStatus=true" alt="Discord Presence" />
+    <img src="https://lanyard.cnrad.dev/api/732275651385753753" alt="Discord Presence" />
   </a>
 </div>
 
@@ -27,4 +27,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&hideStatus=true
 -->
