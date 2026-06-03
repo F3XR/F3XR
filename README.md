@@ -3,11 +3,7 @@
 ---
 ![Github Stats](https://github-stats-alpha.vercel.app/api?username=F3XR&cc=000&tc=fff&ic=fff&bc=000)
 ---
-<div align="left">
-  <a href="https://discord.com/users/732275651385753753">
-    <img src="https://lanyard.cnrad.dev/api/732275651385753753" alt="Discord Presence" />
-  </a>
-</div>
+[![Discord Presence](https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&showDisplayName=true&hideBadges=true&hideTag=true)](https://discord.com/users/732275651385753753)
 
 ---
 - 📫 How to reach me: Discord
