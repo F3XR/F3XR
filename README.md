@@ -13,6 +13,9 @@
 ---
 
 - 📫 How to reach me: Discord
+---
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,html,css,js,ts)](https://skillicons.dev)
 
 <!---
 
