@@ -9,7 +9,6 @@
 
 - Owner At Ambient → https://discord.gg/FUEnHrTWJD
 - Modder At Fate (2k) → https://discord.gg/kesJxDFxEC
-- Ex Modder At Pulse (2k) → https://discord.gg/BWvaaBHCV8
 - VBT Modding Services → https://discord.gg/ABVyEEej3e
 ---
 
