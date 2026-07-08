@@ -7,7 +7,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&showDisplayName=true&idleMessage=Offline)](https://discord.com/users/732275651385753753)
 ---
 
-- Founder At Ambient → https://discord.gg/FUEnHrTWJD
 - Modder At Fate (2k) → https://discord.gg/kesJxDFxEC
 - VBT Modding Services → https://discord.gg/ABVyEEej3e
 ---
