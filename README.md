@@ -9,7 +9,7 @@
 
 - Modder At Ambient (383) → https://discord.gg/PtJcmwVVQb
 - Modder At Fate (2k) → https://discord.gg/fatefn
-- Modder At Exal (4k) → https://discord.gg/exal
+- Ex Modder At Exal (4k) → https://discord.gg/exal
 - VBT Modding Services → https://discord.gg/ABVyEEej3e
 ---
 
