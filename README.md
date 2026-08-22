@@ -7,8 +7,8 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/732275651385753753?theme=dark&showDisplayName=true&idleMessage=Offline)](https://discord.com/users/732275651385753753)
 ---
 
-- Ex Modder At Ambient (1k+) → https://discord.gg/PtJcmwVVQb
-- Modder / Owner At Fate (2k+) → https://discord.gg/fatefn
+- Ex Modder At Ambient (1k+) → https://discord.gg/ambientfn
+- Ex Modder / Owner At Fate (2k+) → https://discord.gg/fatefn
 - Modder At Exal (5k+) → https://discord.gg/exal
 ---
 
