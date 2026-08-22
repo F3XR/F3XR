@@ -9,7 +9,7 @@
 
 - Ex Modder At Ambient (1k+) → https://discord.gg/PtJcmwVVQb
 - Modder / Owner At Fate (2k+) → https://discord.gg/fatefn
-- Ex Modder At Exal (5k+) → https://discord.gg/exal
+- Modder At Exal (5k+) → https://discord.gg/exal
 ---
 
 
